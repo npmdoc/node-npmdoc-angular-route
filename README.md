@@ -1,9 +1,14 @@
-# api documentation for  [angular-route (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-route.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-route) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-route.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-route)
+# npmdoc-angular-route
+
+#### api documentation for  [angular-route (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-route.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-route) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-route.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-route)
+
 #### AngularJS router module
 
-[![NPM](https://nodei.co/npm/angular-route.png?downloads=true)](https://www.npmjs.com/package/angular-route)
+[![NPM](https://nodei.co/npm/angular-route.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-route)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-route/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular-route_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-route/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-angular-route/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-route/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-route/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-route/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-route/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Angular Core Team",
-        "email": "angular-core+npm@google.com"
+        "name": "Angular Core Team"
     },
     "bugs": {
         "url": "https://github.com/angular/angular.js/issues"
@@ -53,17 +57,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "angularcore",
-            "email": "angular-core+npm@google.com"
+            "name": "angularcore"
         },
         {
-            "name": "petebd",
-            "email": "pete@bacondarwin.com"
+            "name": "petebd"
         }
     ],
     "name": "angular-route",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular/angular.js.git"
@@ -74,16 +75,6 @@
     "version": "1.6.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular-route](#apidoc.module.angular-route)
-
-
-
-# <a name="apidoc.module.angular-route"></a>[module angular-route](#apidoc.module.angular-route)
 
 
 
