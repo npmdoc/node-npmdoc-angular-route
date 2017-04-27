@@ -1,6 +1,6 @@
 # npmdoc-angular-route
 
-#### api documentation for  [angular-route (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-route.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-route) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-route.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-route)
+#### basic api documentation for  [angular-route (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-route.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-route) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-route.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-route)
 
 #### AngularJS router module
 
@@ -72,7 +72,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.6.4"
+    "version": "1.6.4",
+    "bin": {}
 }
 ```
 
